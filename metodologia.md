@@ -1,18 +1,18 @@
-# Anotações de Metodologia Ágil 🧠
+# Minhas Anotações de Aula 📚
 
-As **Metodologias Ágeis** são formas de organizar o trabalho que priorizam a entrega rápida e a colaboração.
+## Matéria: Metodologia (Prof. Rafaela)
 
-## 📑 Principais Frameworks
-Existem dois modelos muito usados no mercado:
+### 🏗️ Gestão de Projetos
+* **O que é um projeto:** Um esforço temporário com início e fim para criar algo único.
+* **O que é uma metodologia:** O conjunto de métodos e caminhos para organizar o trabalho.
 
-1. **Scrum**: Focado em ciclos curtos de entrega chamados *Sprints*.
-2. **Kanban**: Focado na visualização do fluxo de trabalho através de cartões (ex: To Do, Doing, Done).
+### 🔄 Modelos de Trabalho
+* **Modelo Cascata (Waterfall):** Modelo linear onde uma fase só começa quando a anterior termina.
+* **Metodologia Ágil:** Focada em entregas rápidas, ciclos curtos (Sprints) e adaptação a mudanças.
+* **Scrum:** Framework ágil para gestão de projetos complexos.
+* **Kanban:** Sistema visual para gerir o fluxo de trabalho (A fazer, Fazendo, Feito).
+* **Manifesto Ágil:** Conjunto de valores que priorizam pessoas e software funcional.
 
----
-
-### 💡 Conceitos Importantes
-*   **Manifesto Ágil**: Documento criado em 2001 que define os valores da agilidade.
-*   **Melhoria Contínua**: A equipa está sempre a avaliar como trabalhar melhor.
-
-> "Responder a mudanças mais do que seguir um plano." — Manifesto Ágil
+### 👥 Papéis e Funções
+* **Product Owner (PO):** O dono do produto. Define as prioridades e o valor para o cliente.
 
