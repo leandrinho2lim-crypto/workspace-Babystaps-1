@@ -19,7 +19,13 @@
     * **Criação de Repositório:** Setup inicial diretamente no GitHub.
     * **Clone:** Uso do comando `git clone` para trazer o projeto da nuvem para a minha máquina.
 
-### 🗑️ Comandos de Limpeza (Pesquisa)
-* **Excluir Branch Local:** `git branch -d nome-da-branch`
-* **Excluir Branch Remota:** `git push origin --delete nome-da-branch`
-* **Excluir Repositório:** Configurações (Settings) > Danger Zone > Delete this repository.
+## Git & GitHub
+
+### 🌿 Organização e Comandos
+* **Markdown (.md):** Linguagem de marcação para criar documentos formatados (textos, negritos, links).
+* **Gestão de Repositórios:** Como criar e excluir repositórios no GitHub.
+* **Branches:** Criação de "ramos" para trabalhar em partes diferentes do projeto sem afetar o principal.
+
+### 🛠️ Comandos de Limpeza (Pesquisa)
+* `git branch -d nome`: Apagar uma branch localmente.
+* `git push origin --delete nome`: Apagar uma branch no servidor.
