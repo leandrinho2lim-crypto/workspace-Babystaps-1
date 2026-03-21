@@ -34,3 +34,4 @@ SENÃO SE (valorCompra > 200) ENTÃO
 SENÃO
     desconto = 0%
 FIM_SE
+[Ver anotações de Metodologia](./metodologia.md)
